@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mona Rai</h1>
 <h3 align="center">A passionate software Engineering Student.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Mona290/Mona-290/blob/main/programming.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mona290&label=Profile%20views&color=0e75b6&style=flat" alt="mona290" /> </p>
 
 - 🌱 I’m currently learning **React Js,Next Js**
